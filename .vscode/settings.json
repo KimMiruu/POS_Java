@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ASUS TUF\\Desktop\\Downloads\\mysql-connector-java-8.0.18.jar",
+        "c:\\Users\\ASUS TUF\\Desktop\\Downloads\\sqlite-jdbc-3.36.0.3-javadoc.jar"
+    ]
+}
